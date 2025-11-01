@@ -1,0 +1,15 @@
+# Env variables
+.env
+.env.local
+.env.*.local
+
+# PHP/Composer
+/vendor/
+composer.phar
+
+# PhpStorm / JetBrains
+.idea/
+*.iml
+
+# MacOS system files
+.DS_Store
